@@ -1,0 +1,13 @@
+.sass-cache/
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+
+# Mac:
+*.DS_Store
+
+# Linux:
+*.*~
